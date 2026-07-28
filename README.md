@@ -2,7 +2,7 @@
 
 # Muhammad Umair Malik
 
-**AI Engineer · Agentic Systems · Full-Stack Architecture**
+**AI Engineer | Agentic Systems | Full-Stack Architecture**
 
 I build AI systems that make it into production.
 

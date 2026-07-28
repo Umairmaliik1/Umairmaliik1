@@ -88,3 +88,4 @@ See the full picture at [umair-malik-ai-engineer.vercel.app](https://umair-malik
 Have a project in mind, a system that needs work, or a role you're hiring for? [Email me](mailto:malikumair44826@gmail.com) or [message me on WhatsApp](https://wa.me/923124287874).
 
 </div>
+
